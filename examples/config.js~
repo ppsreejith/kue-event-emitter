@@ -1,0 +1,10 @@
+module.exports = {
+    redis: {
+        port: 6379,
+        host: '139.59.57.74',
+        options: {
+            // see https://github.com/mranney/node_redis#rediscreateclient
+        }
+    },
+    prefix: 'testing',
+}

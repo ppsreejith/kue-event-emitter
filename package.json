@@ -1,0 +1,27 @@
+{
+  "name": "kue-event-emitter",
+  "version": "1.0.0",
+  "description": "An event emitter interface for Kue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppsreejith/kue-event-emitter.git"
+  },
+  "keywords": [
+    "kue",
+    "EventEmitter",
+    "node.js"
+  ],
+  "author": "ppsreejith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppsreejith/kue-event-emitter/issues"
+  },
+  "homepage": "https://github.com/ppsreejith/kue-event-emitter#readme",
+  "dependencies": {
+    "kue": "^0.11.5"
+  }
+}
